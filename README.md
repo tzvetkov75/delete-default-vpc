@@ -1,4 +1,4 @@
-# delete-defaul-vpc
+# delete-default-vpc
 Deletes AWS default VPCs in all regions (bash)
 ## Description
 This scripts deletes the default VPC in all regions. The use case can be if you want to provision special custom version of VPC.
